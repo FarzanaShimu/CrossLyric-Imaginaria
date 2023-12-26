@@ -81,7 +81,7 @@ Project Organization
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/smn06/CrossLyricImaginaria.git
+    git clone https://github.com/farzanashimu/CrossLyricImaginaria.git
     ```
 
 2. Navigate to the project directory:
